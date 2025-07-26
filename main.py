@@ -10,7 +10,7 @@ def swap2(a,b):
   a = a+(~b)+1
   print("After swapping: a =",a,"and b =",b)
 
-swap1(3,80)
+swap(3,80)
 swap2(3,80)
   
 
